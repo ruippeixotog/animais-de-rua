@@ -124,7 +124,6 @@ Route::group(['prefix' => 'api', 'middleware' => ['web']], function () {
 
     Route::get('animals/adoption/{district}/{specie}', 'PageController@getAnimalsAdoption');
     Route::get('animals/godfather/{district}/{specie}', 'PageController@getAnimalsGodfather');
-    // Route::get('prestashop/products', 'PrestaShopController@getProducts');
 });
 
 // Language

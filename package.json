@@ -13,7 +13,7 @@
         "cantil": "^1.1.2"
     },
     "devDependencies": {
-        "cross-env": "^7.0.3",
+        "cross-env": "^10.1.0",
         "eslint": "^9.6.0",
         "laravel-mix": "^6.0.11",
         "milligram": "^1.4.1",
@@ -21,7 +21,6 @@
         "postcss": "^8.2.4",
         "resolve-url-loader": "^5.0.0",
         "sass": "^1.32.6",
-        "sass-loader": "^14.2.1",
-        "vue-template-compiler": "^2.6.12"
+        "sass-loader": "^14.2.1"
     }
 }
